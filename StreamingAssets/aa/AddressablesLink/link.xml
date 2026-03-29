@@ -207,6 +207,9 @@
   <assembly fullname="UniWebView-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UniWebView" preserve="all" />
   </assembly>
+  <assembly fullname="WebGLInput, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="WebGLSupport.WebGLInput" preserve="all" />
+  </assembly>
   <assembly fullname="UnityEngine.TextCoreFontEngineModule">
     <type fullname="UnityEngine.TextCore.FaceInfo" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.TextCore.Glyph" preserve="nothing" serialized="true" />
